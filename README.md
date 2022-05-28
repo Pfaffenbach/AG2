@@ -15,7 +15,7 @@ npm start
 ```
 - Após rodar o programa, abra o localhost indicado para acessa-lo:
 ```
-http://localhost:4200
+http://localhost:4200/
 ```
 
 ## 📜 Grupo:
